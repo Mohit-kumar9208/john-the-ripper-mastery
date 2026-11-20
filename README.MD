@@ -153,7 +153,7 @@ nw{networkwalks_persistence_jtr_270521}
 ### Flag 3 — My Locked PDF3.pdf
 Cracked using a **dictionary/wordlist attack**
 
-![Flag 3 Screenshot](./flag3-pdf3.png)
+![Flag 3 Screenshot](screenshots/flag3-pdf3.png)
 
 ```
 nw{networkwalks_flag_260821_1}

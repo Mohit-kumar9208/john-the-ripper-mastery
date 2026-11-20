@@ -135,7 +135,7 @@ Three locked PDFs were cracked across different modules of this project. Each on
 ### Flag 1 — My Locked PDF1.pdf
 Cracked using **Networkwalks Hash Calculator + Password Cracker**
 
-![Flag 1 Screenshot](screenshots/flag1-pdf1.png)
+![Flag 1 Screenshot](./flag1-pdf1.png)
 
 ```
 nw{cybersecurity_flag_captured_2608}
@@ -144,7 +144,7 @@ nw{cybersecurity_flag_captured_2608}
 ### Flag 2 — My Locked PDF2.pdf
 Cracked using **John the Ripper (JTR) via Johnny GUI** on Kali Linux
 
-![Flag 2 Screenshot](screenshots/flag2-pdf2.png)
+![Flag 2 Screenshot](./flag2-pdf2.png)
 
 ```
 nw{networkwalks_persistence_jtr_270521}
@@ -153,7 +153,7 @@ nw{networkwalks_persistence_jtr_270521}
 ### Flag 3 — My Locked PDF3.pdf
 Cracked using a **dictionary/wordlist attack**
 
-![Flag 3 Screenshot](screenshots/flag3-pdf3.png)
+![Flag 3 Screenshot](./flag3-pdf3.png)
 
 ```
 nw{networkwalks_flag_260821_1}
@@ -258,6 +258,6 @@ This repository is intended strictly for **educational purposes** within an auth
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:FFD23F,35:FF2E63,70:7B2FF7,100:00D9FF"/>
 
-**Made with curiosity and a passion for cybersecurity — by Mohit**
+**Made with curiosity and a passion for cybersecurity — by Mohit Kumar**
 
 </div>
